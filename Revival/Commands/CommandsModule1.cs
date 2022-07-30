@@ -49,4 +49,3 @@ public class CommandsModule1 : BaseCommandModule
         await ctx.RespondAsync(msg);
     }
 }
-//test
